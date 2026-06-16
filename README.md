@@ -1,2 +1,25 @@
-# 886a3df0-dental-practice-management-bus
-Complete business plan, market analysis framework, and strategic planning worksheets. Investor-ready planning documents for Dental Practice Management.
+# Dental Practice Management Business Plan and Strategy Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B69AT3aLbUE7BC5bud0p0x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B69AT3aLbUE7BC5bud0p0x)
+
